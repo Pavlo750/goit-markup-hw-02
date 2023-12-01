@@ -87,7 +87,6 @@ a {
   letter-spacing: 1.12px;
 }
 .cnopca {
-  border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
   color: #ffffff;
   font-family: "Roboto", sans-serif;
@@ -98,7 +97,6 @@ a {
   cursor: pointer;
 }
 .cnopca:hover {
-  border-radius: 4px;
   background: var(--OCEAN, #404bbf);
 }
 .cnopca:focus {
@@ -148,7 +146,6 @@ a {
   text-transform: capitalize;
 }
 .user {
-  border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
 }
 .user-img {
@@ -156,7 +153,6 @@ a {
     lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 .user-img:hover {
-  border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
 }
 .user-name {
@@ -194,7 +190,7 @@ a {
   background: #fff;
 }
 .portfolio-img {
-  border: 1px solid var(--CORNFLOWER, #e7e9fc);
+  color: #e7e9fc;
   background: var(--WHITE, #fff);
 }
 .gallery-item {
@@ -204,10 +200,10 @@ a {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 .epp {
-  border: 1px solid var(--CORNFLOWER, #e7e9fc);
+  color: #e7e9fc;
   background: var(--WHITE, #fff);
   letter-spacing: 0.02em;
 }
