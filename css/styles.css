@@ -206,6 +206,7 @@ a {
   color: #434455;
   background: var(--WHITE, #fff);
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 
 /* Futer */
