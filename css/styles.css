@@ -208,9 +208,11 @@ a {
 .gallery-item {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
+  font-size: 20px;
   font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
   line-height: 1.2;
-  letter-spacing: 0.2em;
 }
 .epp {
   border: 1px solid var(--CORNFLOWER, #e7e9fc);
