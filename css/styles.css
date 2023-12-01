@@ -208,9 +208,9 @@ a {
 .gallery-item {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
-  line-height: 1.2;
-  font-size: 20px;
   font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   line-height: 20px;
   letter-spacing: 0.4px;
 }
