@@ -210,7 +210,7 @@ a {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.4px;
 }
 .epp {
@@ -218,15 +218,7 @@ a {
   background: var(--WHITE, #fff);
   letter-spacing: 0.02em;
 }
-.gallery-itemm {
-  color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Roboto;
-  font-size: 20px;
-  line-height: 1.5;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
-}
+
 /* Futer */
 .footer {
   background: var(--NAVY-BLUE, #2e2f42);
