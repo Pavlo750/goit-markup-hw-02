@@ -11,7 +11,7 @@ a {
   text-decoration: none;
 }
 .header {
-  border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
+  color: #e7e9fc;
   background: var(--WHITE, #fff);
 }
 
@@ -95,13 +95,11 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 .cnopca:hover {
   border-radius: 4px;
   background: var(--OCEAN, #404bbf);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .cnopca:focus {
   background-color: #404bbf;
@@ -152,9 +150,6 @@ a {
 .user {
   border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .user-img {
   background: url(<path-to-image>),
@@ -163,9 +158,6 @@ a {
 .user-img:hover {
   border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .user-name {
   color: var(--NAVY-BLUE, #2e2f42);
