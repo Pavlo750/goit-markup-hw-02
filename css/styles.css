@@ -200,10 +200,10 @@ a {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 .epp {
-  color: #e7e9fc;
+  color: #434455;
   background: var(--WHITE, #fff);
   letter-spacing: 0.02em;
 }
